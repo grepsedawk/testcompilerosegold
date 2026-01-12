@@ -7,6 +7,8 @@ authors:
 targets:
   attack:
     main: src/attack.cr
+  afk:
+    main: src/afk.cr
 
 crystal: '>= 1.17.1'
 
